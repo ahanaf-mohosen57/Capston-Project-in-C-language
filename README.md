@@ -1,5 +1,5 @@
 # Capston-Project-in-C-language
-![Screenshot (182)](https://github.com/ahanaf-mohosen57/Capston-Project-in-C-language/assets/91797810/ada28516-36dc-467e-b28e-4c2fa2291e39)
+
 ![Screenshot (181)](https://github.com/ahanaf-mohosen57/Capston-Project-in-C-language/assets/91797810/2f6b4df1-1828-44f5-89e3-e93e74b588d4)
 ![Screenshot (180)](https://github.com/ahanaf-mohosen57/Capston-Project-in-C-language/assets/91797810/094308c3-0914-4b39-abf7-f01626009938)
 ![Screenshot (179)](https://github.com/ahanaf-mohosen57/Capston-Project-in-C-language/assets/91797810/1c8dbb6d-8524-4843-b6dc-e6c00ac93ba6)
